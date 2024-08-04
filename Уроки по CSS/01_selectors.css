@@ -1,0 +1,61 @@
+* {
+
+}
+
+div{
+    box-sizing: border-box;
+}
+
+/*Tag NAme*/
+body {
+    background-color: #eee;
+}
+
+/*Class*/
+.card {
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+/*.card.disabled{*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    width: 800px;*/
+/*    transition: all .6s;*/
+/*    background-color: grey;*/
+/*}*/
+
+.card p {
+    font-size: 15px;
+}
+
+.html {
+    background: darkorange;
+    color: white;
+}
+
+.css {
+    background: #0b57d0;
+    color: white;
+}
+
+/*Id*/
+#header {
+    background-color: #ddd;
+    padding: 10px;
+}
+
+#header, .css, .html {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+

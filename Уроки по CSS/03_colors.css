@@ -1,0 +1,24 @@
+.color1 {
+    color:red;
+}
+
+/*RedGreenBlue*/
+/*00-ff*/
+.color2 {
+    color: #4B0082;
+}
+
+.color3 {
+    color: #ddd;
+
+}
+
+/*0-255*/
+.color4 {
+    color: rgb(0, 150, 0);
+    /*opacity: 0.2;*/
+}
+
+.color5 {
+    color: rgba(0, 150, 0, 0.5);
+}

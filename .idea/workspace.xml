@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7de12a9f-7f67-46bd-b21c-a1f7cddc1d3c" name="Changes" comment="study files">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/01_selectors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/02_fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/03_colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/04_borders.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/05-box-model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/06_links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/07_lists-tables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/08_display.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/10_media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/01_text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/01_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/02_img_limks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/03_lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/04_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/05_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/06_inline_block.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/07_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Уроки по HTML/Tsunade_1.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guba1dull1naa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guba1dull1naa/aliyusha_uchitsa.git&quot;,
+    &quot;accountId&quot;: &quot;c9eb045a-30e2-4ccd-a5de-1647436876c8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ibnv2Qx6nX8T0FGP51cnfdI0mm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aliagubajdullina/WebstormProjects/aliyusha_uchitsa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de12a9f-7f67-46bd-b21c-a1f7cddc1d3c" name="Changes" comment="" />
+      <created>1719768370889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719768370889</updated>
+      <workItem from="1719768372008" duration="77000" />
+      <workItem from="1719768454588" duration="1995000" />
+      <workItem from="1722781859724" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study files" />
+    <option name="LAST_COMMIT_MESSAGE" value="study files" />
+  </component>
+</project>

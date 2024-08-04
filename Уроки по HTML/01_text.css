@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+}
+
+
+.navbar {
+    background-color: orange;
+    /*padding: 10px 20px;*/
+    margin-bottom: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.navbar ul {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    padding: 0 20px;
+}
+
+.navbar ul li {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.navbar ul li:hover {
+    background-color: yellowgreen;
+}
+
+.navbar ul li:last-child {
+    margin-right: 0;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 1000px;
+}
+
+/*.avatar img {*/
+/*    width: 200px;*/
+/*    border-radius: 20px;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*}*/
+
+.avatar {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+    margin: 10px;
+    display: flex;
+}
+
+.info-text h4 {
+    margin-bottom: 10px;
+}
+
+
+.card {
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.my-hobbies {
+    margin: 10px;
+    padding: 10px
+}
+
+.my-hobbies ul {
+    margin: 0;
+    padding: 3px;
+    list-style: none;
+    display: inline-block;
+}
+.my-hobbies li:hover {
+    background-color: pink;
+}
+
+.experience {
+    padding: 10px;
+    margin: 10px;
+}
+
+.experience th {
+    text-align: left;
+}
+.experience td {
+    padding: 3px;
+}
+.experience td:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+.connection {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.bg-purple {
+    background-color: lightpink;
+}
+
+.bg-yellow {
+    background-color: lightyellow;
+}
+
+.bg-green {
+    background-color: darkseagreen;
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        font-size: 15px;
+    }
+
+    .info {
+        width: 150px;
+    }
+
+}
+
+
+
+
+

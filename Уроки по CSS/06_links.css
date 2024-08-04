@@ -1,0 +1,22 @@
+a {
+    color: grey;
+    text-decoration: none;
+    /*transition-duration: 0.2s;*/
+}
+
+a:hover {
+    color: cornflowerblue;
+    /*font-size: larger;*/
+}
+
+/*a:visited {*/
+/*    color: red;*/
+/*}*/
+
+a:active {
+    color: darkblue;
+}
+
+.css:hover {
+    background: darkblue;
+}
